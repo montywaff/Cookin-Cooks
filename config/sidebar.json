@@ -23,96 +23,72 @@
 
 
     {
-      "title": "Gateway",
-      "slug": "gate-0",
+      "title": "Soups & Salads",
+      "slug": "soupsSalads",
       "url": "README",
       "pages": [
         {
-          "title": "D.G0: gateway",
-          "page": "d.g0"
+           "title": "Recipe Name",
+          "page": "recipenamewithoutmdextension"
         },
         {
-          "title": "D.G1: leaderboard",
-          "page": "d.g1"
+          "title": "Recipe Name",
+          "page": "recipenamewithoutmdextension"
         },
         {
-          "title": "D.G2: gates",
-          "page": "d.g2"
+          "title": "Recipe Name",
+          "page": "recipenamewithoutmdextension"
         }
       ]
     },
     {
-      "title": "Gate 1",
-      "slug": "gate-1",
+      "title": "Vegetables & Side Dishes",
+      "slug": "VegetablesSideDishes",
       "url": "README",
       "pages": [
         {
-          "title": "Real World",
-          "sections": [
-            {
-              "title": "R.M0: instructions begin",
-              "page": "r.m0"
-            }
-          ]
+        
+          "title": "Recipe Name",
+          "page": "recipenamewithoutmdextension"
         },
         {
-          "title": "Keys",
-          "page": "keys"
-        },
-        {
-          "title": "Digital",
-          "sections": [
-            {
-              "title": "D.G1: alaska",
-              "page": "d.g1"
-            },
-            {
-              "title": "D.Y1: This is NOT Your Story!",
-              "page": "d.y1"
-            }
-          ]
+          "title": "Recipe Name",
+          "page": "recipenamewithoutmdextension"
+        }
         }
       ]
     },
     {
-      "title": "Gate 2",
-      "slug": "gate-2",
+      "title": "Main Dishes",
+      "slug": "MainDishes",
       "url": "README",
       "pages": [
         {
-          "title": "Digital",
-          "sections": [
-            {
-              "title": "D.G0: artwork update",
-              "page": "d.g0"
-            }
-          ]
-        },
         {
-          "title": "Keys",
-          "page": "keys"
+          "title": "Recipe Name",
+          "page": "recipenamewithoutmdextension"
         }
       ]
     },
     {
-      "title": "Beta Gate 1",
-      "slug": "beta-gate-1",
+      "title": "Breads",
+      "slug": "breads",
       "url": "README",
       "pages": [
         {
-          "title": "Keys",
-          "page": "keys"
+          "title": "Recipe Name",
+          "page": "recipenamewithoutmdextension"
         }
       ]
     },
     {
-      "title": "Beta Gate 2",
-      "slug": "beta-gate-2",
+      "title": "Desserts",
+      "slug": "desserts",
       "url": "README",
       "pages": [
         {
-          "title": "Keys",
-          "page": "keys"
+           "title": "Recipe Name",
+          "page": "recipenamewithoutmdextension"
         }
       ]
     },
