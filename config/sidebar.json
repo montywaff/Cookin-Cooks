@@ -78,7 +78,13 @@
       "pages": [{
         "title": "Southern Fudge Cake",
         "page": "fudgecake"
-      }]
+      },
+      {
+        "title": "Ursa's Fudgy Brownies",
+        "page": "ursasfudgebrownies"
+      }
+
+    ]
     },
     {
       "title": "Cookies",
