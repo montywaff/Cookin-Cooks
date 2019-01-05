@@ -142,7 +142,7 @@ function _createSidebar(data) {
               .addClass('list-label')
 
             let $innerInnerSection = $(`
-              <li class="nav-page" data-href="${page.slug}/${section.page}">
+              <li class="nav-page" data-href="./recipes/${page.slug}/${section.page}">
                   <a>
                     ${section.title}
                   </a>
@@ -156,7 +156,7 @@ function _createSidebar(data) {
         } else if(innerPage.page) {
           $listLabel
             .addClass('nav-page')
-            .attr('data-href', `${page.slug}/${innerPage.page}`)
+            .attr('data-href', `./recipes/${page.slug}/${innerPage.page}`)
         }
 
         $liWrap
