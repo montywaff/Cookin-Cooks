@@ -20,9 +20,18 @@
       "slug": "soupsSalads",
       "url": "README",
       "pages": [{
-        "title": "Recipe Name",
-        "page": "recipenamewithoutmdextension"
-      }]
+          "title": "Recipe Name",
+          "page": "recipenamewithoutmdextension"
+        },
+        {
+          "title": "Taco Soup",
+          "page": "tacosoup"
+        },
+        {
+          "title": "Posole",
+          "page": "posole"
+        }
+      ]
     },
     {
       "title": "Vegetables",
@@ -46,10 +55,6 @@
       "pages": [{
           "title": "Quick Mexican Casserole",
           "page": "mexCasserole"
-        },
-        {
-          "title": "Taco Soup",
-          "page": "tacosoup"
         },
         {
           "title": "15min Chili & Rice Wrap",
