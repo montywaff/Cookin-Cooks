@@ -8,12 +8,16 @@
 * item
 * item
 
+###### Optional
+
+* item
 ---
 
 #### Tools
 
 * pan
 * spice grinder
+
 ---
 
 #### Directions
