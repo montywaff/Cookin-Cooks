@@ -2,8 +2,7 @@
 
 ## Southern Fudge Cake
 
-![alt]() image goes here later
-*only include one pic, and here at the top. images should be crisp and properly lit*
+![ image goes here later]()
 
 #### Cake Ingredients
 
