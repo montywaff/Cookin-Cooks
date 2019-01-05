@@ -47,14 +47,13 @@
       "url": "README",
       "pages": [
         {
-        
+
           "title": "Recipe Name",
           "page": "recipenamewithoutmdextension"
         },
         {
           "title": "Recipe Name",
           "page": "recipenamewithoutmdextension"
-        }
         }
       ]
     },
@@ -63,7 +62,6 @@
       "slug": "MainDishes",
       "url": "README",
       "pages": [
-        {
         {
           "title": "Recipe Name",
           "page": "recipenamewithoutmdextension"
