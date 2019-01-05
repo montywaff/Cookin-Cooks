@@ -1,8 +1,8 @@
 
 
-## < Southern Fudge Cake >
+## Southern Fudge Cake
 
-![alt](https://images.unsplash.com/photo-1504185945330-7a3ca1380535?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1521&q=80)
+![alt]() image goes here later
 *only include one pic, and here at the top. images should be crisp and properly lit*
 
 #### Cake Ingredients
@@ -34,6 +34,8 @@
 If light or glass pan, bake 45-50 minutes.
 If, dark pan, bake 50 minutes.
 
+---
+
 #### Icing Ingredients
 * 4 tablespoons milk
 * 1 stick butter
@@ -42,12 +44,14 @@ If, dark pan, bake 50 minutes.
 * 1 cup pecans
 * 1 box powdered sugar
 
+---
+
 #### Directions
 1. In a saucepan, add milk, margarine, and cocoa powder. Bring to a boil, then remove from heat.
 
 2. Add remaining ingredients and stir.
 
-3. Pour and spread on hot cake. 
+3. Pour and spread on hot cake.
 
 
 
