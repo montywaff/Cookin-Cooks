@@ -2,12 +2,12 @@
 
 ## Southern Fudge Cake
 
-![ image goes here later]()
+![If you've cooked this, please submit an image!]()
 
 #### Cake Ingredients
 
 * 2 cups sugar
-* 2 cups flour
+* 2 cups plain flour
 * 1 cup water
 * 2 sticks butter
 * 4 tablespoons cocoa powder
@@ -24,9 +24,9 @@
 
 2. Mix together sugar and plain flour in a bowl and set aside.
 
-3. In a saucepan, add water, bytter, and cocoa powder. Bring to a boil for 1 minute. Then pour over flour and sugar mixture and stir.
+3. In a saucepan, add water, butter, and cocoa powder. Bring to a boil for 1 minute. Then pour over flour and sugar mixture and stir.
 
-4. In a seperate bowl, slightly beat eggs, then add the buttermilk and baking soda. Add salt and vanilla.
+4. In a separate bowl, slightly beat eggs, then add the buttermilk and baking soda. Add salt and vanilla.
 
 5. Combine with the other mixture using a hand mixer then pour into the pan.
 
