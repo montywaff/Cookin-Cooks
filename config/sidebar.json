@@ -1,6 +1,5 @@
 {
-  "pages": [
-    {
+  "pages": [{
       "title": "Welcome!",
       "url": "README"
     },
@@ -11,24 +10,17 @@
     {
       "title": "Apetizers & Beverages",
       "slug": "apetizersBeverages",
-      "pages":[
-        {
-          "title": "First Apetizer",
-          "page": "apetizer"
-        }
-      ]
-
+      "pages": [{
+        "title": "First Apetizer",
+        "page": "apetizer"
+      }]
     },
-
-
-
     {
       "title": "Soups & Salads",
       "slug": "soupsSalads",
       "url": "README",
-      "pages": [
-        {
-           "title": "Recipe Name",
+      "pages": [{
+          "title": "Recipe Name",
           "page": "recipenamewithoutmdextension"
         },
         {
@@ -45,8 +37,7 @@
       "title": "Vegetables & Side Dishes",
       "slug": "VegetablesSideDishes",
       "url": "README",
-      "pages": [
-        {
+      "pages": [{
 
           "title": "Recipe Name",
           "page": "recipenamewithoutmdextension"
@@ -61,34 +52,28 @@
       "title": "Main Dishes",
       "slug": "MainDishes",
       "url": "README",
-      "pages": [
-        {
-          "title": "Recipe Name",
-          "page": "recipenamewithoutmdextension"
-        }
-      ]
+      "pages": [{
+        "title": "Recipe Name",
+        "page": "recipenamewithoutmdextension"
+      }]
     },
     {
       "title": "Breads",
       "slug": "breads",
       "url": "README",
-      "pages": [
-        {
-          "title": "Recipe Name",
-          "page": "recipenamewithoutmdextension"
-        }
-      ]
+      "pages": [{
+        "title": "Recipe Name",
+        "page": "recipenamewithoutmdextension"
+      }]
     },
     {
       "title": "Desserts",
       "slug": "desserts",
       "url": "README",
-      "pages": [
-        {
-           "title": "Recipe Name",
-          "page": "recipenamewithoutmdextension"
-        }
-      ]
+      "pages": [{
+        "title": "Recipe Name",
+        "page": "recipenamewithoutmdextension"
+      }]
     },
     {
       "title": "Useful Resources",
