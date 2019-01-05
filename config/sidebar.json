@@ -63,6 +63,10 @@
         {
           "title": "Stuffed Zucchini",
           "page": "stuffedZucchini"
+        },
+        {
+          "title": "Tater Tot Casserole",
+          "page": "tatertotCasserole"
         }
       ]
     },
@@ -89,15 +93,14 @@
       "slug": "desserts",
       "url": "README",
       "pages": [{
-        "title": "Southern Fudge Cake",
-        "page": "fudgecake"
-      },
-      {
-        "title": "Ursa's Fudgy Brownies",
-        "page": "ursasfudgebrownies"
-      }
-
-    ]
+          "title": "Southern Fudge Cake",
+          "page": "fudgecake"
+        },
+        {
+          "title": "Ursa's Fudgy Brownies",
+          "page": "ursasfudgebrownies"
+        }
+      ]
     },
     {
       "title": "Cookies",
