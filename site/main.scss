@@ -1,8 +1,7 @@
 // compile
 @import '_template';
 
-
-.main{
+.main {
   background: $clouds;
   display: grid;
   grid-template-columns: 20rem 1fr;
@@ -23,6 +22,11 @@
     display: flex;
     flex-direction: column;
 
+    .icon-hidden {
+        max-height: 0;
+        overflow: hidden;
+    }
+
     .collapse-me {
       display: none;
     }
@@ -38,23 +42,20 @@
       }
 
       .name {
-        font-size: .75em;
-        letter-spacing: .1em;
+        font-size: 0.75em;
+        letter-spacing: 0.1em;
         text-transform: uppercase;
         flex-grow: 1;
       }
 
       &.is-expanded {
-
         .icon {
-          transform : rotate(90deg);
+          transform: rotate(90deg);
         }
       }
     }
 
-
-    .menu-label{
-
+    .menu-label {
       .icon {
         cursor: pointer;
 
@@ -73,13 +74,11 @@
     flex-grow: 1;
   }
 
-  .bottom-options li a{
+  .bottom-options li a {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-
   }
-
 }
 
 .content-card {
@@ -103,5 +102,4 @@
 img {
   max-height: 25rem;
 }
-
 //
