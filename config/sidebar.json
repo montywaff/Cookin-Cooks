@@ -25,7 +25,7 @@
       }]
     },
     {
-      "title": "Vegetables & Side Dishes",
+      "title": "Vegetables",
       "slug": "vegetables",
       "url": "README",
       "pages": [{
@@ -50,6 +50,14 @@
         {
           "title": "Taco Soup",
           "page": "tacosoup"
+        },
+        {
+          "title": "15min Chili & Rice Wrap",
+          "page": "15minChiliRiceWrap"
+        },
+        {
+          "title": "Stuffed Zucchini",
+          "page": "stuffedZucchini"
         }
       ]
     },
