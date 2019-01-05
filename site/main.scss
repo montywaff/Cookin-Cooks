@@ -9,7 +9,7 @@
 
 .sidebar {
   box-shadow: $shadow-4;
-  background: $aggieblue-dark;
+  background: darken($emerald, 35%);
   padding: 1rem;
   z-index: 3;
   display: flex;
@@ -39,6 +39,7 @@
         color: $white;
         @include animate;
         cursor: pointer;
+        opacity: 0.75;
       }
 
       .name {
@@ -67,6 +68,20 @@
       .name {
         @include sidebar-hover;
       }
+    }
+
+    .menu-list {
+        a{
+            &:hover {
+                background: transparentize($white, 0.75);
+                color: $white;
+            }
+
+            &.is-active {
+                background: transparentize($white, 0.50);
+                color: $black;
+            }
+        }
     }
   }
 
