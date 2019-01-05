@@ -20,22 +20,13 @@
       "slug": "soupsSalads",
       "url": "README",
       "pages": [{
-          "title": "Recipe Name",
-          "page": "recipenamewithoutmdextension"
-        },
-        {
-          "title": "Recipe Name",
-          "page": "recipenamewithoutmdextension"
-        },
-        {
-          "title": "Recipe Name",
-          "page": "recipenamewithoutmdextension"
-        }
-      ]
+        "title": "Recipe Name",
+        "page": "recipenamewithoutmdextension"
+      }]
     },
     {
       "title": "Vegetables & Side Dishes",
-      "slug": "VegetablesSideDishes",
+      "slug": "vegetables",
       "url": "README",
       "pages": [{
 
@@ -49,17 +40,31 @@
       ]
     },
     {
-      "title": "Main Dishes",
-      "slug": "MainDishes",
+      "title": "Red Meat Dishes",
+      "slug": "meat",
       "url": "README",
       "pages": [{
-        "title": "Recipe Name",
-        "page": "recipenamewithoutmdextension"
+          "title": "Quick Mexican Casserole",
+          "page": "mexCasserole"
+        },
+        {
+          "title": "Taco Soup",
+          "page": "tacosoup"
+        }
+      ]
+    },
+    {
+      "title": "Fish Dishes",
+      "slug": "fishSeafood",
+      "url": "README",
+      "pages": [{
+        "title": "Recipe name",
+        "page": "recipename"
       }]
     },
     {
-      "title": "Breads",
-      "slug": "breads",
+      "title": "Breads & Rolls",
+      "slug": "breadsRolls",
       "url": "README",
       "pages": [{
         "title": "Recipe Name",
@@ -73,6 +78,42 @@
       "pages": [{
         "title": "Southern Fudge Cake",
         "page": "fudgecake"
+      }]
+    },
+    {
+      "title": "Cookies",
+      "slug": "cookies",
+      "url": "README",
+      "pages": [{
+        "title": "Recipe",
+        "page": "neh"
+      }]
+    },
+    {
+      "title": "Pasta",
+      "slug": "pasta",
+      "url": "README",
+      "pages": [{
+        "title": "Recipe",
+        "page": "neh"
+      }]
+    },
+    {
+      "title": "Poultry",
+      "slug": "poultry",
+      "url": "README",
+      "pages": [{
+        "title": "Recipe",
+        "page": "neh"
+      }]
+    },
+    {
+      "title": "Side Dishes",
+      "slug": "sideDishes",
+      "url": "README",
+      "pages": [{
+        "title": "Recipe",
+        "page": "neh"
       }]
     },
     {
