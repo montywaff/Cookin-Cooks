@@ -1,6 +1,8 @@
 // compile
 @import '_template';
 
+$primary: darken($emerald, 35%);
+
 .main {
   background: $clouds;
   display: grid;
@@ -9,7 +11,7 @@
 
 .sidebar {
   box-shadow: $shadow-4;
-  background: darken($emerald, 35%);
+  background: $primary;
   padding: 1rem;
   z-index: 3;
   display: flex;
@@ -22,13 +24,18 @@
     display: flex;
     flex-direction: column;
 
+    .menu-grow a {
+      font-size: 0.75em;
+    }
+
     .icon-hidden {
-        max-height: 0;
-        overflow: hidden;
+      max-height: 0;
+      overflow: hidden;
     }
 
     .collapse-me {
       display: none;
+      margin-left: 2rem;
     }
 
     .menu-header {
@@ -43,7 +50,6 @@
       }
 
       .name {
-        font-size: 0.75em;
         letter-spacing: 0.1em;
         text-transform: uppercase;
         flex-grow: 1;
@@ -71,17 +77,17 @@
     }
 
     .menu-list {
-        a{
-            &:hover {
-                background: transparentize($white, 0.75);
-                color: $white;
-            }
-
-            &.is-active {
-                background: transparentize($white, 0.50);
-                color: $black;
-            }
+      a {
+        &:hover {
+          background: transparentize($white, 0.75);
+          color: $white;
         }
+
+        &.is-active {
+          background: transparentize($white, 0.50);
+          color: $black;
+        }
+      }
     }
   }
 
@@ -100,6 +106,7 @@
   background: $white;
   overflow: auto;
   max-height: 100%;
+  @include custom-scroll($wide: true);
 
   .content {
     background: $clouds;
@@ -116,5 +123,9 @@
 
 img {
   max-height: 25rem;
+}
+
+hr {
+    background: $primary;
 }
 //

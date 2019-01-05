@@ -86,51 +86,56 @@ $test-color: transparentize($wisteria, .9);
 @mixin animate {
   transition: all 0.15s ease-in-out;
 }
-
-@mixin custom-scroll($mode: light, $hover:false) {
-  // @if $mode == light {
-  //   $shade: 0;
-  // } @else {
-  //   $shade: 255;
-  // }
-  $shade: 255;
-
-  &::-webkit-scrollbar {
-    width: 8px;
-  }
-
-  &::-webkit-scrollbar-track {
-    background-color: rgba($shade,$shade,$shade,.05);
-    border-radius: 0 0 2px;
-  }
-
-  @if $hover == on-hover {
-    @include animate;
-    &:hover::-webkit-scrollbar-thumb {
-      border-radius: 2px;
-      background-color: rgba($shade,$shade,$shade,.25);
-      margin-right: 2px;
+@mixin custom-scroll($light: false, $hover: false, $wide: false) {
+    $shade: 0;
+    @if $light {
+        $shade: 255;
     }
-  } @else {
-    &::-webkit-scrollbar-thumb {
-      border-radius: 2px;
-      background-color: rgba($shade,$shade,$shade,.25);
-      margin-right: 2px;
+    $shade-05: rgba($shade,$shade,$shade,.05);
+    $shade-25: rgba($shade,$shade,$shade,.25);
+    $shade-45: rgba($shade,$shade,$shade,.45);
+
+    @if $wide {
+        &::-webkit-scrollbar {
+            width: 16px;
+        }
+    } @else {
+        &::-webkit-scrollbar {
+            width: 8px;
+        }
     }
-  }
 
-  &::-webkit-scrollbar-corner {
-    background: transparent;
-  }
+    @if $hover {
+        &:hover::-webkit-scrollbar-thumb {
+            border-radius: 2px;
+            background-color: $shade-25;
+            margin-right: 2px;
+        }
+    } @else {
+        &::-webkit-scrollbar-thumb {
+            border-radius: 2px;
+            background-color: $shade-25;
+            margin-right: 2px;
+        }
 
-  &::-webkit-scrollbar-button {
-    width: 0;
-    height: 0;
-  }
+        &::-webkit-scrollbar-track {
+            background-color: $shade-05;
+            border-radius: 0 0 2px;
+        }
+    }
 
-  &::-webkit-scrollbar-thumb:active {
-    background: rgba($shade,$shade,$shade,0.4);
-  }
+    &::-webkit-scrollbar-corner {
+        background: transparent;
+    }
+
+    &::-webkit-scrollbar-button {
+        width: 0;
+        height: 0;
+    }
+
+    &::-webkit-scrollbar-thumb:active {
+        background: $shade-45;
+    }
 }
 
 // bulma overrides
