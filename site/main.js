@@ -96,12 +96,15 @@ function _createSidebar(data) {
     let $menuHeader = $('<li>')
       .addClass('menu-header')
 
-    // max-height: 0; overflow: hidden on .icon
     let $headerIcon = $(`
       <span class="icon">
         <i class="fas fa-chevron-right"></i>
       </span>
     `)
+
+    if(!page.pages) {
+        $headerIcon.addClass('icon-hidden')
+    }
 
     let $name = $('<a>')
       .addClass('name nav-page')
