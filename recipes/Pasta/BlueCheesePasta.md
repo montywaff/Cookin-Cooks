@@ -2,7 +2,7 @@
 ## Blue Cheese Pasta
 _. A really easy but impressive sounding dish, works for impressing a girl or boy, your boss, any co-workers or mother-in-laws. Pairs well with both red and white dry wine for all you of legal age. ._
 
-![If you've cooked this, please submit an image!]()
+![Blue Cheese Pasta](https://i.imgur.com/RHssFQs.jpg)
 
 #### Ingredients
 
