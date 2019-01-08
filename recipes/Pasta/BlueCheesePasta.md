@@ -1,6 +1,6 @@
 
 ## Blue Cheese Pasta
-_. A really easy but impressive sounding dish, works for impressing a girl or boy, your boss, any co-workers or mother-in-laws. Pairs well with both red and white dry wine for all you of legal age. ._
+*A really easy but impressive sounding dish, works for impressing a girl or boy, your boss, any co-workers or mother-in-laws. Pairs well with both red and white dry wine for all you of legal age.*
 
 ![Blue Cheese Pasta](https://i.imgur.com/RHssFQs.jpg)
 

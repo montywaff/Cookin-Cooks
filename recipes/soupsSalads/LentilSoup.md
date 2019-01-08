@@ -1,7 +1,7 @@
 
 ## Turkish-Style Lentil Soup
-._ A nice, hearty and spicy soup you can eat for days. vegetarian, can be vegan, and is super easy
--by UrsaPolaris _.
+*A nice, hearty and spicy soup you can eat for days. vegetarian, can be vegan, and is super easy
+-by UrsaPolaris*
 
 ![If you've cooked this, please submit an image!]()
 
