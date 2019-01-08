@@ -25,11 +25,15 @@
         },
         {
           "title": "Taco Soup",
-          "page": "tacosoup"
+          "page": "tacoSoup"
         },
         {
           "title": "Posole",
           "page": "posole"
+        },
+        {
+          "title": "Turkish-Style Lentil Soup",
+          "page": "LentilSoup"
         }
       ]
     },
@@ -116,8 +120,8 @@
       "slug": "pasta",
       "url": "README",
       "pages": [{
-        "title": "Recipe",
-        "page": "neh"
+        "title": "Blue Chese Pasta",
+        "page": "BlueCheesePasta"
       }]
     },
     {
