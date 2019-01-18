@@ -15,7 +15,8 @@
 
 #### Tools
 
-* 9x13 pan
+* 9 x 13 pan
+
 ---
 
 #### Directions

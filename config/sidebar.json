@@ -8,10 +8,18 @@
       "url": "helping"
     },
     {
-      "title": "Apetizers & Beverages",
+      "title": "Breakfast",
+      "slug": "breakfast",
+      "pages": [{
+        "title": "Shakshuka",
+        "page": "shakshuka"
+      }]
+    },
+      {
+      "title": "Appetizers & Beverages",
       "slug": "apetizersBeverages",
       "pages": [{
-        "title": "First Apetizer",
+        "title": "First Appetizer",
         "page": "apetizer"
       }]
     },

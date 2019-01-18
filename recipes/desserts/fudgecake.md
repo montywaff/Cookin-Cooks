@@ -35,6 +35,7 @@ If, dark pan, bake 50 minutes.
 ---
 
 #### Icing Ingredients
+
 * 4 tablespoons milk
 * 1 stick butter
 * 4 tablespoons cocoa powder
@@ -44,6 +45,7 @@ If, dark pan, bake 50 minutes.
 
 
 #### Directions
+
 1. In a saucepan, add milk, margarine, and cocoa powder. Bring to a boil, then remove from heat.
 
 2. Add remaining ingredients and stir.
