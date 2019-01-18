@@ -3,7 +3,7 @@
 
 *This Mediterranean one-pan dish is basically egg poached in tomato sauce. It works well as both breakfast and lunch, personally I like it as a light dinner when served over rice.*
 
-![If you've cooked this, please submit an image!]()
+![Blue Cheese Pasta](https://i.imgur.com/RHssFQs.jpg)
 
 
 #### Ingredients
