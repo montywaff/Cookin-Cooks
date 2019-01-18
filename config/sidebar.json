@@ -65,13 +65,17 @@
       "slug": "meat",
       "url": "README",
       "pages": [{
-          "title": "Quick Mexican Casserole",
-          "page": "mexCasserole"
+        "title": "15min Chili & Rice Wrap",
+        "page": "15minChiliRiceWrap"
         },
         {
-          "title": "15min Chili & Rice Wrap",
-          "page": "15minChiliRiceWrap"
+          "title": "Meatloaf",
+          "page": "meatloaf"
         },
+        {
+          "title": "Quick Mexican Casserole",
+          "page": "mexCasserole"
+          },
         {
           "title": "Stuffed Zucchini",
           "page": "stuffedZucchini"
