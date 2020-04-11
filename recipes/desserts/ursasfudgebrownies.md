@@ -25,7 +25,8 @@
 * sauce pan
 * small non plastic bowl (ceramic or metal) that fits in the sauce pan
 * oven pan
-* *optional: silicone bowl scraper*
+* *optional:* silicone bowl scraper
+
 ---
 
 #### Directions

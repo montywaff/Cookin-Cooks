@@ -8,10 +8,18 @@
       "url": "helping"
     },
     {
-      "title": "Apetizers & Beverages",
+      "title": "Breakfast",
+      "slug": "breakfast",
+      "pages": [{
+        "title": "Shakshuka",
+        "page": "shakshuka"
+      }]
+    },
+      {
+      "title": "Appetizers & Beverages",
       "slug": "apetizersBeverages",
       "pages": [{
-        "title": "First Apetizer",
+        "title": "First Appetizer",
         "page": "apetizer"
       }]
     },
@@ -25,11 +33,15 @@
         },
         {
           "title": "Taco Soup",
-          "page": "tacosoup"
+          "page": "tacoSoup"
         },
         {
           "title": "Posole",
           "page": "posole"
+        },
+        {
+          "title": "Turkish-Style Lentil Soup",
+          "page": "LentilSoup"
         }
       ]
     },
@@ -53,13 +65,17 @@
       "slug": "meat",
       "url": "README",
       "pages": [{
-          "title": "Quick Mexican Casserole",
-          "page": "mexCasserole"
+        "title": "15min Chili & Rice Wrap",
+        "page": "15minChiliRiceWrap"
         },
         {
-          "title": "15min Chili & Rice Wrap",
-          "page": "15minChiliRiceWrap"
+          "title": "Meatloaf",
+          "page": "meatloaf"
         },
+        {
+          "title": "Quick Mexican Casserole",
+          "page": "mexCasserole"
+          },
         {
           "title": "Stuffed Zucchini",
           "page": "stuffedZucchini"
@@ -116,8 +132,8 @@
       "slug": "pasta",
       "url": "README",
       "pages": [{
-        "title": "Recipe",
-        "page": "neh"
+        "title": "Blue Chese Pasta",
+        "page": "BlueCheesePasta"
       }]
     },
     {

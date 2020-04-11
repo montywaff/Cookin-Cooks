@@ -16,7 +16,6 @@
 * 1/4 teaspoon salt
 * 1 teaspoon vanilla
 
----
 
 #### Directions
 
@@ -36,6 +35,7 @@ If, dark pan, bake 50 minutes.
 ---
 
 #### Icing Ingredients
+
 * 4 tablespoons milk
 * 1 stick butter
 * 4 tablespoons cocoa powder
@@ -43,9 +43,9 @@ If, dark pan, bake 50 minutes.
 * 1 cup pecans
 * 1 box powdered sugar
 
----
 
 #### Directions
+
 1. In a saucepan, add milk, margarine, and cocoa powder. Bring to a boil, then remove from heat.
 
 2. Add remaining ingredients and stir.
@@ -62,4 +62,4 @@ If, dark pan, bake 50 minutes.
 
 
 
-<!--  -->
+<!-- Deborah#6709 -->
