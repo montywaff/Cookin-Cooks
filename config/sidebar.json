@@ -13,7 +13,12 @@
       "pages": [{
         "title": "Shakshuka",
         "page": "shakshuka"
-      }]
+      },
+      {
+        "title": "Em's Famous Waffles",
+        "page": "waffles"
+      }
+    ]
     },
       {
       "title": "Appetizers & Beverages",
